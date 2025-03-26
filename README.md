@@ -34,23 +34,9 @@ Implemented options for background G{S-tracking, drawing the track on the map, c
 5. Build and run the project.
 
 
-## Contributing :writing_hand:
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-
 ## Contributors 📢
 
 <a href="https://github.com/GoetzDeBouville/GpsTrackerPet/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=GoetzDeBouville/GpsTrackerPet"/>
 </a>
 
-
-### Contact me  📬
-
-<p align="left">
-
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksey-zinchenko-9b3760252/)
-[![](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/heoderer)
-[![](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/double.conscience)
-</p>
