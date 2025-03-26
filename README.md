@@ -21,6 +21,6 @@ Implemented options for background G{S-tracking, drawing the track on the map, c
 ## Contributors 📢
 
 <a href="https://github.com/parthnaath/LocationTrackerApp">
-    <img src="https://contrib.rocks/image?repo=GoetzDeBouville/GpsTrackerPet"/>
+    <img src="https://github.com/account"/>
 </a>
 
