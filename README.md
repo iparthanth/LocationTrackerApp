@@ -20,20 +20,6 @@ Implemented options for background G{S-tracking, drawing the track on the map, c
 <img src="./screenshots/003.gif" width="240" height="480">
 
 
-## Getting Started 🛠
-
-1. Clone this repository to your local machine.
-    ```text
-    git clone https://github.com/GoetzDeBouville/GpsTrackerPet.git
-    ```
-
-2. Open the project in Android Studio.
-
-4. Set up your Android device/emulator/simulator.
-
-5. Build and run the project.
-
-
 ## Contributors 📢
 
 <a href="https://github.com/GoetzDeBouville/GpsTrackerPet/graphs/contributors">
