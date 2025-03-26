@@ -35,7 +35,6 @@ class LocationService : Service() {
     private var lastLocation: Location? = null
     private var geoPointsList = ArrayList<GeoPoint>()
 
-    // 🔴 Modified location callback to include bearing and current location
     private var locationCallback = object : LocationCallback() {
         override fun onLocationResult(locationResult: LocationResult) {
             super.onLocationResult(locationResult)
@@ -46,7 +45,6 @@ class LocationService : Service() {
                 }
                 geoPointsList.add(GeoPoint(currentLocation.latitude, currentLocation.longitude))
 
-                // 🔴 Include bearing and current location in LocationModel
                 val locationModule = LocationModel(
                     currentLocation.speed,
                     distance,
@@ -114,7 +112,6 @@ class LocationService : Service() {
         locationProvider = LocationServices.getFusedLocationProviderClient(this)
     }
 
-    // 🔴 Optimized location request for frequent high-accuracy updates
     private fun startLocationUpdate() {
         val updateIntervalMs = PreferenceManager.getDefaultSharedPreferences(this)
             .getString(SettingsFragment.TIME_KEY, "1000")?.toLong() ?: 1000
