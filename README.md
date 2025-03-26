@@ -15,10 +15,8 @@ Implemented options for background G{S-tracking, drawing the track on the map, c
 - Foreground Service
 - Broadcast Reciever (for LocationService)
 
-
 <img src="./screenshots/001.gif" width="240" height="480">    <img src="./screenshots/004.gif" width="240" height="480">    
 <img src="./screenshots/003.gif" width="240" height="480">
-
 
 ## Contributors 📢
 
