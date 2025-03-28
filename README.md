@@ -19,7 +19,8 @@ Implemented options for background G{S-tracking, drawing the track on the map, c
 <img src="./screenshots/003.gif" width="240" height="480">
 
 ## Image
-<img src="https://github.com/parthnaath/LocationTrackerApp/blob/bf8690532da41f603a7e4ef4becbf2e32801c450/locations-screenshot.jpg?raw=true" width="400" alt="Location Tracking Preview">
+<img src="https://github.com/parthnaath/LocationTrackerApp/blob/bf8690532da41f603a7e4ef4becbf2e32801c450/locations-screenshot.jpg?raw=true" width="400" alt="Location Tracking Preview"> <img src="https://github.com/parthnaath/LocationTrackerApp/blob/bf8690532da41f603a7e4ef4becbf2e32801c450/locations-screenshot.jpg?raw=true" width="400" alt="Location Tracking Preview"> 
+<img src="https://github.com/parthnaath/LocationTrackerApp/blob/bf8690532da41f603a7e4ef4becbf2e32801c450/locations-screenshot.jpg?raw=true" width="400" alt="Location Tracking Preview"> 
 
 ## Contributors 📢
 
