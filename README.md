@@ -28,4 +28,4 @@ Implemented options for background G{S-tracking, drawing the track on the map, c
     <img src="https://avatars.githubusercontent.com/u/130292245?s=48&v=4"/>
 </a>
 
-My Project is based on : https://github.com/GoetzDeBouville/GpsTrackerPet
+
